@@ -1,0 +1,25 @@
+﻿@page
+@model ListProgramVersions.Pages.IndexModel
+@{
+    ViewData["Title"] = "List Program Versions";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Program</th>
+            <th>Version</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var program in Model.ProgramVersions)
+        {
+            <tr>
+                <td>@program.Key</td>
+                <td>@program.Value</td>
+            </tr>
+        }
+    </tbody>
+</table>

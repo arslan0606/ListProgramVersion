@@ -1,0 +1,149 @@
+# Visual Studio Code
+.vscode/
+.vs/
+
+# Rider
+.idea/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet packages
+*.nuget.props
+*.paket.props
+*.paket.targets
+*.lock.json
+project.lock.json
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio profiling
+*.press
+*.vsp
+*.vspx
+*.sap
+*.inch
+*.iobj
+
+# Visual Studio Code
+.vscode/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Rider plugin files
+.idea/
+
+# Resharper
+_ReSharper*/
+
+# TeamCity
+.idea/
+*.tss
+
+# DotCover
+*.dotCover
+
+# JustCode
+.JustCode
+
+# Azure Web App publishing
+.PublishSettings
+
+# GhostDoc
+~$GhostDoc.tmp
+
+# Visual Studio 2019 project local settings
+.vs
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet
+*.nuget.props
+*.paket.props
+*.paket.targets
+
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Visual Studio 2022 project local files
+.vs
+
+# .NET Core
+*.nupkg
+*.pfx
+*.snk
+*.sw?
+
+# Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+
+# Build Results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+
+# .NET SGen cache
+*.suo
+
